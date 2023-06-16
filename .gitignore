@@ -1,0 +1,29 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+bin/
+lib/
+lib64/
+
+# Dependency management
+*.egg-info/
+dist/
+build/
+*.egg
+env/
+pip-wheel-metadata/
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Other
+*.DS_Store
+*.sqlite3
+staticfiles/
+media/
